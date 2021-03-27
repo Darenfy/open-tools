@@ -7,6 +7,9 @@ Some Funny Tools and CAN TRY
 ## MacOS 微信防撤回
 https://github.com/a244573118/WeChatIntercept
 
+## 微信 macOS 客户端增强 Tweak 动态库
+https://github.com/Sunnyyoung/WeChatTweak-macOS  
+支持多开，防撤回等多种操作
 
 
 
